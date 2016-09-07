@@ -1,3 +1,5 @@
+//from:
+//http://www.codedata.com.tw/javascript/essential-javascript-15-prototype/
 
 function Person(name, age) {
   this.name = name;
